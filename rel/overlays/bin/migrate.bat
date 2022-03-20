@@ -1,0 +1,1 @@
+call "%~dp0\booru_box" eval BooruBox.Release.migrate

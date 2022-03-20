@@ -10,7 +10,7 @@ processes = []
   release_command = "/app/bin/migrate"
 
 [env]
-  PHX_HOST = "booru-box.fly.dev"
+  PHX_HOST = "booru-box.avikav.net"
   PORT = "8080"
 
 [experimental]
